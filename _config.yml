@@ -23,7 +23,7 @@ repository               : "wjz070707/wjz070707.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Me.png"
+  avatar           : "profile.jpg"
   name             : "Jiaze Wang"
   pronouns         : # example: "she/her"  
   bio              : "An undergraduate in Peking University,School of Physics."
