@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Beijing China"
+locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Welcome to Jiaze Wang's personal website!"
+title                    : "Jiaze Wang"
 title_separator          : "-"
 name                     : &name "Jiaze Wang"
-description              : &description "Personal academic website"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Personal academic website of Jiaze Wang"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://wjz070707.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wjz070707/wjz070707.github.io"
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Jiaze Wang"
   pronouns         : # example: "she/her"  
-  bio              : "An undergraduate in Peking University,School of Physics."
-  location         : "Earth"
+  bio              : "Undergraduate student at the School of Physics, Peking University."
+  location         : "Beijing, China"
   employer         : "Peking University"
   uri              : # URL
   email            : "3095910755@qq.com" 
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
